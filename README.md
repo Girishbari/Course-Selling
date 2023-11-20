@@ -1,6 +1,6 @@
 <h1 align="center" id="title">TeachCode</h1>
 
-<p align="center"><img src="[https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png](https://github.com/Girishbari/Course-Selling/blob/main/server/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)" alt="project-image"></p>
+<p align="center"><img src="https://github.com/Girishbari/Course-Selling/blob/main/server/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png" alt="project-image"></p>
 
 <p id="description">An online course selling website is a platform that allows instructors or course creators to host and sell their online courses to students worldwide. These websites provide a centralized location for managing and delivering course content handling payments and interacting with students.</p>
 
