@@ -9,9 +9,6 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-app.get("/", (req, res) => {
-  res.send("Successfully connected to server.");
-});
 app.use("/admin", adminRouter);
 app.use("/users", userRouter);
 app.use(express.static("public"));

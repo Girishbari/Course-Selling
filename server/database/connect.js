@@ -8,6 +8,7 @@ mongoose
   .connect(DB_CONNECT, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
+    dbName: "courses",
   })
   .then(() => {
     console.log("Connected to MongoDB");
