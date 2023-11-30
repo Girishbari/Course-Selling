@@ -32,5 +32,5 @@ npm install
 ```
 npm run dev
 ```
+<h2 id="Stacks">MERN</h
 
-`         <h2>💻 Built with</h2>  Technologies used in the project:  *   MERN     `
