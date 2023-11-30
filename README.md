@@ -11,6 +11,10 @@
 Here're some of the project's best features:
 
 *   Course creation and management
+*   Admin Login and Registration
+*   User Login and Registration
+*   Purchase cart (just like add to cart)
+*   MUI Front-end
 *   Payment processing
 
 <h2>🛠️ Installation Steps:</h2>
