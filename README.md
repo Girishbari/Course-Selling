@@ -36,5 +36,8 @@ npm install
 ```
 npm run dev
 ```
-<h2 id="Stacks">MERN</h
-
+<h2 id="Stacks">Build with</h>
+<h3> > MERN</h3>
+<h3> > ZOD</h3>
+<h3> > RECOIL</h3>
+<h3> > MUI</h3>
